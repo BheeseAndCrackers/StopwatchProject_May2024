@@ -5,5 +5,5 @@ there's a lot of math, conversions, and logic in this one.
 # Requirements
 Requires LiquidCrystal.h library
 
-circuit requires four LEDs, four buttons, pulldown resistors, and an LCD
+circuit requires four LEDs, four buttons, pulldown resistors, and an LCD display
 
